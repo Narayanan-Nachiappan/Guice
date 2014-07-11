@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<environments>
+
+	<environment>
+		<name>staging</name>
+		<hostpattern>stg-imsacbroker</hostpattern>
+		<path>/Users/nnarayan/dev/</path>
+	</environment>
+
+	<environment>
+		<name>development</name>
+		<hostpattern>pattern-in-development-machines</hostpattern>
+		<path></path>
+	</environment>
+
+	<environment>
+		<name>production</name>
+		<hostpattern>pattern-in-prod-hostnames</hostpattern>
+		<path></path>
+	</environment>
+
+</environments>
